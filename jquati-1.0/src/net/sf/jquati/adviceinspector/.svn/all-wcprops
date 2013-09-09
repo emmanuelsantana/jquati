@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/jquati-1.0/src/net/sf/jquati/adviceinspector
+END
+AdviceInspector.aj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/jquati-1.0/src/net/sf/jquati/adviceinspector/AdviceInspector.aj
+END
+AdviceInspectorElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/jquati-1.0/src/net/sf/jquati/adviceinspector/AdviceInspectorElement.java
+END
+AdviceInspectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/jquati-1.0/src/net/sf/jquati/adviceinspector/AdviceInspectionException.java
+END

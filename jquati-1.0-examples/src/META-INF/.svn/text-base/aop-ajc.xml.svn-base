@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aspectj>
+	<aspects>
+		<aspect name="AspectX"/>
+		<aspect name="net.sf.jquati.adviceinspector.AdviceInspector"/>
+	</aspects>
+	<weaver options="-Xreweavable -debug -verbose -showWeaveInfo">
+		<include within="X" />
+		<include within="Y" />
+		<include within="AspectX" />
+	</weaver>
+</aspectj>

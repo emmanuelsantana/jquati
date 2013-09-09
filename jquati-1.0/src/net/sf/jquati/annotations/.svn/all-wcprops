@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/jquati-1.0/src/net/sf/jquati/annotations
+END
+ExecutionContextElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/jquati-1.0/src/net/sf/jquati/annotations/ExecutionContextElement.java
+END
+TestedAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/jquati-1.0/src/net/sf/jquati/annotations/TestedAspect.java
+END
+MustExecute.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/jquati-1.0/src/net/sf/jquati/annotations/MustExecute.java
+END
+MustNotExecute.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/jquati-1.0/src/net/sf/jquati/annotations/MustNotExecute.java
+END
+ExecutionContextCreation.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/jquati-1.0/src/net/sf/jquati/annotations/ExecutionContextCreation.java
+END

@@ -1,0 +1,49 @@
+10
+
+dir
+10
+https://jquati.googlecode.com/svn/trunk/jquati-1.0/src/net/sf/jquati
+https://jquati.googlecode.com/svn
+
+
+
+2010-01-07T10:33:03.886848Z
+4
+emmanuel.csantana
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+64454b06-551b-11de-b906-09d018dec989
+
+context
+dir
+
+contextcreator
+dir
+
+executioncontext
+dir
+
+annotations
+dir
+
+exception
+dir
+
+test
+dir
+
+adviceinspector
+dir
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/jquati-1.0/src/net/sf/jquati/executioncontext/impl
+END
+ClassVerificationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/jquati-1.0/src/net/sf/jquati/executioncontext/impl/ClassVerificationContext.java
+END
+ClassExecutionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4/trunk/jquati-1.0/src/net/sf/jquati/executioncontext/impl/ClassExecutionContext.java
+END
+ClassCreationPreparedContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4/trunk/jquati-1.0/src/net/sf/jquati/executioncontext/impl/ClassCreationPreparedContext.java
+END

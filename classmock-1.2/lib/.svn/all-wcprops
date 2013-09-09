@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/10/trunk/classmock-1.2/lib
+END
+jmock-2.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/classmock-1.2/lib/jmock-2.4.0.jar
+END
+cglib-nodep-2.1_3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10/trunk/classmock-1.2/lib/cglib-nodep-2.1_3.jar
+END
+hamcrest-library-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/trunk/classmock-1.2/lib/hamcrest-library-1.1.jar
+END
+asm-all-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/classmock-1.2/lib/asm-all-3.1.jar
+END
+cglib-2.1_3-src.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/classmock-1.2/lib/cglib-2.1_3-src.jar
+END
+hamcrest-core-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10/trunk/classmock-1.2/lib/hamcrest-core-1.1.jar
+END
+junit-4.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/classmock-1.2/lib/junit-4.4.jar
+END
+jmock-junit4-2.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/trunk/classmock-1.2/lib/jmock-junit4-2.4.0.jar
+END
+objenesis-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/classmock-1.2/lib/objenesis-1.0.jar
+END

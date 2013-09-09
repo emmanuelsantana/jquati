@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/jquati-1.0/src/net/sf/jquati/context
+END
+PreparedContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/jquati-1.0/src/net/sf/jquati/context/PreparedContext.java
+END
+VerificationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/jquati-1.0/src/net/sf/jquati/context/VerificationContext.java
+END
+ExecutionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/jquati-1.0/src/net/sf/jquati/context/ExecutionContext.java
+END

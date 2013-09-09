@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/classmock-1.2/src/net/sf/classmock
+END
+MockClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10/trunk/classmock-1.2/src/net/sf/classmock/MockClassLoader.java
+END
+WeavingMockClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10/trunk/classmock-1.2/src/net/sf/classmock/WeavingMockClassLoader.java
+END
+Location.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10/trunk/classmock-1.2/src/net/sf/classmock/Location.java
+END
+Annotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/trunk/classmock-1.2/src/net/sf/classmock/Annotation.java
+END
+OrdinaryMockClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10/trunk/classmock-1.2/src/net/sf/classmock/OrdinaryMockClassLoader.java
+END
+ClassMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10/trunk/classmock-1.2/src/net/sf/classmock/ClassMock.java
+END
+ClassData.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10/trunk/classmock-1.2/src/net/sf/classmock/ClassData.java
+END
+Method.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10/trunk/classmock-1.2/src/net/sf/classmock/Method.java
+END
+ClassMockUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10/trunk/classmock-1.2/src/net/sf/classmock/ClassMockUtils.java
+END
+AbstractMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10/trunk/classmock-1.2/src/net/sf/classmock/AbstractMethod.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10/trunk/classmock-1.2/src/net/sf/classmock/Property.java
+END
